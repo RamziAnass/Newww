@@ -46,7 +46,7 @@ const Hero: React.FC<HeroProps> = () => {
             Transformation des informations à 
             <br />
             <span className="text-primary-500 dark:text-primary-400">
-              des Recommandations et Leviers Stratégiques
+              des Recommandations et Leviers 
             </span>
           </motion.h1>
 
